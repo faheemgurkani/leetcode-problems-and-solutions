@@ -6,6 +6,8 @@ and analysis of its time complexity.
 
 <!-- --- -->
 
+<br>
+
 ## 1. Brute Force Approach
 
 **Idea:**  
@@ -71,6 +73,8 @@ class Solution:
 
 <!-- --- -->
 
+<br>
+
 ## 2. Sorting-Based Approach
 
 **Idea:**  
@@ -124,6 +128,8 @@ class Solution:
   **O(n * k)** for storing all words in the hash map.
 
 <!-- --- -->
+
+<br>
 
 ## 3. Optimized Hash Map with Frequency Count (Current Solution)
 
@@ -184,11 +190,15 @@ class Solution:
 - **Space Complexity:**  
   **O(n * k)** for storing keys in the hash map and the grouped words.
 
+<br>
+
 ---
 
 **Note:** Within the both the sorting and frequency count approaches; we use hash maps as our primary data structure of choice, for storing the end results.
 
 ---
+
+<br>
 
 ## Summary Comparison
 
