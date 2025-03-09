@@ -137,9 +137,9 @@ k = 2
 - **O(N)** for sorted list.
 - **Total: O(N)**.
 
-<!-- --- -->
-
 <br>
+
+<!-- --- -->
 
 ## Summary Comparison
 
